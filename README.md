@@ -1,6 +1,6 @@
 <h1>
   WELCOME
-  <img src="https://media.giphy.com/media/3o7aCVzTmaVkDWpXYk/giphy.gif" width="60px"/>
+  <img src="https://media.giphy.com/media/3o7aCVzTmaVkDWpXYk/giphy.gif" width="00px"/>
 </h1>
 
 <div align="center">
