@@ -1,7 +1,8 @@
 <h1>
-  WELCOME
-  <img src="https://media.giphy.com/media/3o7aCVzTmaVkDWpXYk/giphy.gif" width="00px"/>
+WELCOME 
+    <img src="https://media.giphy.com/media/3o7aCVzTmaVkDWpXYk/giphy.gif" width="40" height="30" />
 </h1>
+  
 
 <div align="center">
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="300" height="300"/>
