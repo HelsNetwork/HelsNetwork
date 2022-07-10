@@ -28,7 +28,7 @@ WELCOME
   ---
   ### :woman_technologist: WHOAMI
    
-  I am a Cybersecurity enthusiast who likes to code :slightly_smiling_face:
+  I'm a Cybersecurity enthusiast who likes to code :slightly_smiling_face:
   
   ---
   ### :hammer_and_wrench: Languages and Tools :
