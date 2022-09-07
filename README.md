@@ -28,7 +28,9 @@ WELCOME
   ---
   ### :woman_technologist: WHOAMI
    
-  I'm a Cybersecurity enthusiast who likes to code :slightly_smiling_face:
+ I'm an aspiring Network Engineer who likes to code :slightly_smiling_face:
+ 
+Currently studying for CCNA
   
   ---
   ### :hammer_and_wrench: Languages and Tools :
