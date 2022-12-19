@@ -29,9 +29,7 @@ WELCOME
   ### :woman_technologist: WHOAMI
    
 An aspiring Network Security Engineer who likes to code :slightly_smiling_face:
- 
-Currently studying for CCNA
-  
+   
   ---
   ### :hammer_and_wrench: Languages and Tools :
   
