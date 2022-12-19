@@ -28,7 +28,7 @@ WELCOME
   ---
   ### :woman_technologist: WHOAMI
    
- I'm an aspiring Network Engineer who likes to code :slightly_smiling_face:
+An aspiring Network Security Engineer who likes to code :slightly_smiling_face:
  
 Currently studying for CCNA
   
