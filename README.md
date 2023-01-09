@@ -12,7 +12,7 @@ WELCOME
   <a href="https://medium.com/@hel.s">
     <img src="https://img.shields.io/badge/meduim-black?style=for-the-badge&logo=linkedin&logoColor=pink" alt="meduim Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCwMnrClFkJ8Px6q2bopt_GQ">
+  <a href="https://www.youtube.com/@helsnetwork/">
     <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=pink" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/justcallme_hel">
