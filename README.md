@@ -15,7 +15,7 @@ WELCOME
   <a href="https://www.youtube.com/@helsnetwork/">
     <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=pink" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/justcallme_hel">
+  <a href="https://twitter.com/Hel_sNetwork">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=pink" alt="Twitter Badge"/>
   </a>
 
