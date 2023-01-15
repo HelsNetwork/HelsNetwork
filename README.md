@@ -54,6 +54,6 @@ An aspiring Network Engineer who likes to code :slightly_smiling_face:
 ###  :octocat: My Stats :
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hel4s&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hel4s&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ ![](https://github-readme-stats-ruby-one.vercel.app/api?username=hel4s&theme=radical&show_icons=true)
 
 
