@@ -9,7 +9,7 @@ WELCOME
 </div>
 
 <div id="badges" align="center">
-  <a href="https://medium.com/@hel.s">
+  <a href="https://helsnet.tech/">
     <img src="https://img.shields.io/badge/meduim-black?style=for-the-badge&logo=linkedin&logoColor=pink" alt="meduim Badge"/>
   </a>
   <a href="https://www.youtube.com/@helsnetwork/">
