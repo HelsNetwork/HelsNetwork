@@ -28,7 +28,7 @@ WELCOME
   ---
   ### :woman_technologist: WHOAMI
    
-An aspiring Network Engineer who likes to code :slightly_smiling_face:
+An cyberseucity Engineer who likes to code :slightly_smiling_face:
    
   ---
   ### :hammer_and_wrench: Languages and Tools :
