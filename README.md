@@ -1,14 +1,5 @@
-<h1>
-WELCOME 
-    <img src="https://media.giphy.com/media/3o7aCVzTmaVkDWpXYk/giphy.gif" width="40" height="30" />
-</h1>
-  
 
-<div align="center">
-  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="300" height="300"/>
-</div>
-
-<div id="badges" align="center">
+  <div id="badges" align="center">
   <a href="https://helsnet.tech/">
     <img src="https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=wordpress&logoColor=pink" alt="meduim Badge"/>
   </a>
