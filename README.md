@@ -6,7 +6,7 @@
   <a href="https://www.youtube.com/@helsnetwork/">
     <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=pink" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/Hel_sNetwork">
+  <a href="https://twitter.com/just__hel">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=pink" alt="Twitter Badge"/>
   </a>
 
