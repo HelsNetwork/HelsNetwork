@@ -19,7 +19,9 @@
   ---
   ### :woman_technologist: WHOAMI
    
-An aspiring cybersecurity Engineer who likes to code :slightly_smiling_face:
+👋 Self-learner with an unquenchable passion for cybersecurity. 
+Aspiring SOC analyst on a journey to explore the digital realm and enhance cybersecurity defences. 
+🌐💻 Learning and sharing, one commit at a time. 🤓 
    
   ---
   ### :hammer_and_wrench: Languages and Tools :
