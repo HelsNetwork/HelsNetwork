@@ -19,7 +19,7 @@
   ---
   ### :woman_technologist: WHOAMI
    
-Passionate and fast learner aspiring to break into the IT industry 
+Passionate and fast learner aspiring to break into the IT industry <br>
 🌐💻 Learning and sharing, one commit at a time. 🤓 
    
   ---
