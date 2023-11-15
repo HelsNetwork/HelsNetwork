@@ -19,8 +19,7 @@
   ---
   ### :woman_technologist: WHOAMI
    
-👋 Self-learner with an unquenchable passion for cybersecurity. 
-Aspiring SOC analyst on a journey to explore the digital realm and enhance cybersecurity defences. 
+Passionate and fast learner aspiring to break into the IT industry 
 🌐💻 Learning and sharing, one commit at a time. 🤓 
    
   ---
