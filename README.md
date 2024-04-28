@@ -1,8 +1,6 @@
 
   <div id="badges" align="center">
-  <a href="https://helsnet.tech/">
-    <img src="https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=wordpress&logoColor=pink" alt="meduim Badge"/>
-  </a>
+
   <a href="https://www.youtube.com/@helsnetwork/">
     <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=pink" alt="Youtube Badge"/>
   </a>
