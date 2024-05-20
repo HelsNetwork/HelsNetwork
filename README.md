@@ -1,23 +1,11 @@
 
   <div id="badges" align="center">
 
-  <a href="https://www.youtube.com/@helsnetwork/">
-    <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=pink" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/just__hel">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=pink" alt="Twitter Badge"/>
-  </a>
-
-</div>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=hel4s&style=flat-square&color=ff69b4" alt=""/>
-  </div>
-  
   
   ---
   ### :woman_technologist: WHOAMI
    
-Passionate and fast learner aspiring to break into the IT industry <br>
+
 🌐💻 Learning and sharing, one commit at a time. 🤓 
    
   ---
