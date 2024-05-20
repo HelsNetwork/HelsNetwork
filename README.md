@@ -15,13 +15,6 @@
 
 ---
 
-
-
-### Support:
-<p><a href="https://www.buymeacoffee.com/helsnetwork"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="helsnetwork" /></a></p><br><br>
-
-  
-   ---
   
 ###  :octocat: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HelsNetwork&theme=rose&mode=weekly)](https://git.io/streak-stats)  
